@@ -4,4 +4,4 @@ https://public.tableau.com/app/profile/brady.hoey/viz/DenverMetroHousingAnalysis
 
 
 Data from: https://www.zillow.com/research/data/ 
-Home updated throughb December 31st, 2022.
+Data last updated December 31st, 2022.
